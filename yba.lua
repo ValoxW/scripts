@@ -1,14 +1,4 @@
-remade by : valox
-CREDITS TO TOBIAS AND LEAD MARKER FOR SERVER HOP AND ITEMFARM
 
-instructions:
-1. put the script in auto execute
-2. attach synapse ingame
-3. enjoy
-
-it may detect you as a exploiter btw, if it does that then just rejoin
-enjoy | no problem for the full direct script and no linkvertise dumb shit
-]]
 repeat wait() until game:IsLoaded()
 local time = 10 -- u can change the time
 spawn(function()
